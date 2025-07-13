@@ -28,7 +28,7 @@ An AI-powered application that lets you **interact with any PDF document** using
 ### 1. Clone the Repository *(or download manually)*
 
 ```bash
-git clone https://github.com/your-username/pdf-insights-analyzer.git
+git clone https://github.com/Shuv13/PDF-Insights-Analyzer.git
 cd pdf-insights-analyzer
 ```
 
